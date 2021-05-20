@@ -1,4 +1,4 @@
-const favoritePokemon = ""
+const favoritePokemon = "charizard"
 const url = `https://pokeapi.co/api/v2/pokemon/${favoritePokemon}`
 
 fetch(url)
